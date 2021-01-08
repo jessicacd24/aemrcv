@@ -1,4 +1,4 @@
-.perfil-picture
+.avatar
 {
     height: 200px;
     width: 200px;
@@ -22,6 +22,11 @@
     margin-left: 150px;
     color: lawngreen;
     font-size: 20px;
+}
+
+.media
+{
+    margin-left: 800px;
 }
 
 .details
@@ -94,28 +99,25 @@
 
 .generic-title
 {
-    margin-left: 350px;
+    padding-left: 350px;
     float: left;
 }
 
-.generic-subtitle
+.subtitle
 {
-    float: left;
-    margin-top: 30px;
-    margin-left: -75px;
     font-size: 15px;
     color: green;
 }
-.generic-descripton
+.generic-description
 {
     text-align: justify;
-    margin-left: 600px;
-    margin-right: 300px;
+    margin-left: 650px;
+    margin-right: 200px;
 }
 
 #btn
 {
-    margin-left: 600px;
+    margin-left: 700px;
     width: 250px;
     height: 50px;
     font-size: 20px;
