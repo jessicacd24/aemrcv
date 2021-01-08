@@ -49,15 +49,15 @@
 .info
 {
     color: darkslategrey;
-    padding-left: 300px;
-    padding-right: 200px;
+    padding-left: 200px;
+    padding-right: 150px;
 }
 
 .details
 {
     color: darkslategrey;
-    padding-left: 640px;
-    padding-right: 400px;
+    padding-left: 480px;
+    padding-right: 250px;
 }
 
 .subtitle
@@ -100,12 +100,9 @@ meter::-webkit-meter-optimum-value
     background: green;
 }
 
-footer
+#footer
 {
-    background-color: grey;
+    background-color: darkgray;
+    font-weight: bolder;
     color: white;
-    text-align: center;
-    height: 70px;
-    padding-top: 15px;
-    margin-top: -15px;
 }
