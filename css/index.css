@@ -142,3 +142,23 @@
 {
     margin-left: -150px;
 }
+
+meter
+{
+    height: 30px;
+    width: 160px;
+}
+
+meter::-webkit-meter-optimum-value
+{
+    background: green;
+}
+
+footer
+{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    height: 50px;
+    padding-top: 15px;
+}
